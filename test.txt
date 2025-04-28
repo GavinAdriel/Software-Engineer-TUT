@@ -1,2 +1,4 @@
 Nama : Gavin Adriel Hakasin
 Nim : 2702274620
+
+Jurusan : Computer Science
